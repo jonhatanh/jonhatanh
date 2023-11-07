@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonhatan Higuera</h1>
-<h3 align="center">Welcome to my GitHub profile :). You can visit my [student profile here](https://github.com/JhonyHC).</h3>
+<h3 align="center">Welcome to my GitHub profile :). You can visit my <a href="https://github.com/JhonyHC" target="_blank">student profile here</a>.</h3>
 
 - 🔭 I’m currently working on this [Todo List with only JS](https://github.com/jonhatanh/todo-list)
 
